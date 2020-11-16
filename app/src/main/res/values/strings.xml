@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">NMedia</string>
     <string name="text_media">NMedia!</string>
+    <string name="enter_text">Enter text</string>
+    <string name="sent">Send</string>
+    <string name="edit_post">Editing text</string>
+    <string name="cancel">Cancel</string>
+    <string name="picture">picture</string>
 </resources>
